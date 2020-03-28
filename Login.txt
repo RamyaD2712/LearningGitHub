@@ -1,5 +1,3 @@
-LearnGit
-
-Learngitcommit
+LearningGit
 
 Updated
